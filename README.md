@@ -1,7 +1,10 @@
 # Ai_Detect
 
 
-This project is about to give me a handle as a student on how to create a web site flow.
+ This project is about to give me a handle as a student on how to create a web site flow.
+ In Ai_Detect, is about to display in real time data from Artificial inteligence interface,
+ and those datas are the count of people based on his gender, entry, exit and 
+ carrying some thing in hand or not, who cross a specifique zone with that thas  entry and exit roles.
 
 ## Built With
 
