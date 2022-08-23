@@ -1,0 +1,5 @@
+#Ne pas suivre le dossier node_module
+
+node_modules/
+
+test6.html
