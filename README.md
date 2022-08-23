@@ -22,11 +22,6 @@ To get a local copy up and running follow these simple example steps.
  git clone git@github.com:GhislainMitahi/Ai_Detect.git
  
  ```
-  in your terminal
-
-  To get actions run ```npm install```
-
-
 
 ## Authors
 
